@@ -6,13 +6,7 @@ import FloatingHearts from '../components/FloatingHearts';
 import ThreeDCarousel from '../components/ThreeDCarousel';
 import StoryIntro from '../components/StoryIntro';
 
-// Use imported images or placeholders
-import onamImg from '../assets/images/onam-2.jpg';
-import plusTwoImg from '../assets/images/plus-two.jpg';
-
 const images = [
-    onamImg,
-    plusTwoImg,
     'https://images.unsplash.com/photo-1523438885200-e635ba2c371e?q=80&w=600&auto=format&fit=crop',
     'https://images.unsplash.com/photo-1511632765486-a01980e01a18?q=80&w=600&auto=format&fit=crop',
     'https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=600&auto=format&fit=crop',
